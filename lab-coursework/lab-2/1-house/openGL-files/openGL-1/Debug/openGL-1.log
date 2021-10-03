@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\reube\source\repos\openGL-1\openGL-1\Source.cpp(13,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\reube\source\repos\openGL-1\openGL-1\Source.cpp(32,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  openGL-1.vcxproj -> C:\Users\reube\source\repos\openGL-1\Debug\openGL-1.exe
